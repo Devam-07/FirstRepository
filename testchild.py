@@ -1,1 +1,2 @@
-print("inside the testchild")
+print("inside the testchild"
+      # stop playing
